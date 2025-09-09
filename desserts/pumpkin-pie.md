@@ -35,3 +35,7 @@
 
 - 15 min at 425 F
 - 40-50 min at 350 F
+
+## Icing
+- Mix a teaspoon of water with icing sugar
+- spread it on top
